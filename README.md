@@ -21,7 +21,7 @@ Green Horizons is a platform built using React to inspire and guide eco-consciou
 ## Npm packages Used  
 - react-router-dom
 - tailwindcss
-- daisyui@latest
+- daisyui
 - react-icons
 - moment
 
