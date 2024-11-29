@@ -3,7 +3,7 @@
 **Live Link**: https://green-horizons-9865f.web.app/
 
 ## Purpose  
-Green Horizons is a platform designed to inspire and guide eco-conscious travelers on sustainable adventures. From breathtaking mountain treks to serene ocean dives, we aim to promote exploration while prioritizing environmental preservation and supporting local communities.  
+Green Horizons is a platform built using React to inspire and guide eco-conscious travelers on sustainable adventures. From breathtaking mountain treks to serene ocean dives, we aim to promote exploration while prioritizing environmental preservation and supporting local communities.  
 
 ## Key Features  
 - **Eco-Friendly Adventures**: Discover curated experiences that focus on sustainability and environmental stewardship.  
