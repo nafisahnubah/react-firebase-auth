@@ -13,6 +13,11 @@ Green Horizons is a platform built using React to inspire and guide eco-consciou
 - **Educational Content**: Learn about the benefits of eco-friendly practices and responsible travel.
 - **Firebase Authentication**: Secure Signup and Login using Firebase.
 
+## Tech Stack
+- **React**: Frontend framework for building the user interface.
+- **Firebase**: Backend for authentication, user management, and hosting.
+- **TailwindCSS**: For styling the application.
+
 ## Npm packages Used  
 - react-router-dom
 - tailwindcss
@@ -21,5 +26,5 @@ Green Horizons is a platform built using React to inspire and guide eco-consciou
 - moment
 
 ## Author Information
-Name: Nafisah Nubah
-GitHub: nafisahnubah
+- Name: Nafisah Nubah
+- GitHub: nafisahnubah
